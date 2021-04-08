@@ -7,7 +7,7 @@ berikut hasil saduran saya :
 2. sedangkan untuk nilai tugas dinilai melalui kualitas menyadur dimana hasil saduran harus berkualitas atau berbobot
 3.pada pertemuan pertama mahasiswa diharapkan membuat akun github terlebih dahulu.kemudian pada akun github tersebut mahasiswa harus membuat repository baru dengan langkah langkah sebagai berikut :
 - klik 'new'
-- isi nama repository dengan singkat tanpa spasi. contoh : sadurrpl
+- isi nama repository dengan singkat tanpa spasi. contoh : sadurpl
 - kemudian isi kolom deskripsi dengan 'saduran Mata Kuliah Analisa dan Perancangan Perangkat Lunak'
 - kemudian klik 'public'
 - klik ' add a README file'
@@ -19,7 +19,7 @@ nah,pada mata kuliah ini ada sebanyak 16 pertemuan,dimana setiap pertemuan dimin
 4.kemudian bisa mengetik apa saja. contoh nama,nim,dsb
 - jika ingin menambahkan file lain misalnya dalam bentuk hasil screenshot,maka klik folder 1,kemudian printscreen terlebih dahulu kemudian simpan dengan nama misalnya screen1,kemudian drag 'screen1' tadi,lalu tunggu proses upload. kolom dibawah boleh dikosongkan. kemudian commit changes. tunggu sebentar dan didalam folder 1 seharusnya ada file saduran 1 dan screen1png yang berisi hasil screenshot
 
-untuk mengirimkan hasil saduran kepada dosen/pengajar,cukup kirimkan link https://devikholilah.github.io/sadurrpl/1. jika muncul page not found, hal tersebut karena yang namanya host bisa dikenal jika sudah dalam beberapa menit.
+untuk mengirimkan hasil saduran kepada dosen/pengajar,cukup kirimkan link https://devikholilah.github.io/sadurpl/1. jika muncul page not found, hal tersebut karena yang namanya host bisa dikenal jika sudah dalam beberapa menit.
 
 berikut adalah cara menambhakan README yaitu :
 1. klik sadurrpl
