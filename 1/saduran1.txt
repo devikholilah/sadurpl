@@ -1,0 +1,36 @@
+nim : 1811500057
+nama : Devi Kholilah
+kelompok : TI6J
+
+berikut hasil saduran saya :
+1. pada mata kuliah analisa dan perancangan perangkat lunak nilai kehadiran diambil dari hasil menyadur
+2. sedangkan untuk nilai tugas dinilai melalui kualitas menyadur dimana hasil saduran harus berkualitas atau berbobot
+3.pada pertemuan pertama mahasiswa diharapkan membuat akun github terlebih dahulu.kemudian pada akun github tersebut mahasiswa harus membuat repository baru dengan langkah langkah sebagai berikut :
+- klik 'new'
+- isi nama repository dengan singkat tanpa spasi. contoh : sadurrpl
+- kemudian isi kolom deskripsi dengan 'saduran Mata Kuliah Analisa dan Perancangan Perangkat Lunak'
+- kemudian klik 'public'
+- klik ' add a README file'
+- kemudian jika sudah klik 'create repository'
+nah,pada mata kuliah ini ada sebanyak 16 pertemuan,dimana setiap pertemuan diminta untuk membuat folder dengan cara sebagai berikut
+1. klik new file
+2. jika diminta per directory,maka berikan angka satu/, dimana angka satu bermaksud foldernya
+3. kemudian buat nama file 'saduran1.txt'
+4.kemudian bisa mengetik apa saja. contoh nama,nim,dsb
+- jika ingin menambahkan file lain misalnya dalam bentuk hasil screenshot,maka klik folder 1,kemudian printscreen terlebih dahulu kemudian simpan dengan nama misalnya screen1,kemudian drag 'screen1' tadi,lalu tunggu proses upload. kolom dibawah boleh dikosongkan. kemudian commit changes. tunggu sebentar dan didalam folder 1 seharusnya ada file saduran 1 dan screen1png yang berisi hasil screenshot
+
+untuk mengirimkan hasil saduran kepada dosen/pengajar,cukup kirimkan link https://devikholilah.github.io/sadurrpl/1. jika muncul page not found, hal tersebut karena yang namanya host bisa dikenal jika sudah dalam beberapa menit.
+
+berikut adalah cara menambhakan README yaitu :
+1. klik sadurrpl
+2. kemudian klik edit (icon pencil di sebalah kanan)
+3. kemudian untuk menyimpan kembali klik commit changes.
+
+jika file saduran1.txt tidak dapat dibuka maka dapat mengubahnya dengan cara berikut :
+1. copy file
+2. saduran1 rename menjadi index.html
+3. kemudian tambah <br> atau tambahkan kode html
+4. jika sudah klik commit changes
+
+dalam mata kuliah analisa dan perancangan sistem informasi dimana perangkat lunak itu terbagi menjadi 2, yaitu aplikasi dan sistem informasi
+sedangkan perangkat lunak itu jalannya didalam sistem operasi.
