@@ -17,7 +17,7 @@ nah,pada mata kuliah ini ada sebanyak 16 pertemuan,dimana setiap pertemuan dimin
 2. jika diminta per directory,maka berikan angka satu/, dimana angka satu bermaksud foldernya
 3. kemudian buat nama file 'saduran1.txt'
 4.kemudian bisa mengetik apa saja. contoh nama,nim,dsb
-- jika ingin menambahkan file lain misalnya dalam bentuk hasil screenshot,maka klik folder 1,kemudian printscreen terlebih dahulu kemudian simpan dengan nama misalnya screen1,kemudian drag 'screen1' tadi,lalu tunggu proses upload. kolom dibawah boleh dikosongkan. kemudian commit changes. tunggu sebentar dan didalam folder 1 seharusnya ada file saduran 1 dan screen1png yang berisi hasil screenshot
+- jika ingin menambahkan file lain misalnya dalam bentuk hasil screenshot,maka klik folder 1,kemudian printscreen terlebih dahulu kemudian simpan dengan nama misalnya screen1,kemudian drag 'screen1' tadi,lalu tunggu proses upload. kolom dibawah boleh dikosongkan. kemudian commit changes. tunggu sebentar dan didalam folder 1 seharusnya ada file saduran 1 dan ssg png yang berisi hasil screenshot
 
 untuk mengirimkan hasil saduran kepada dosen/pengajar,cukup kirimkan link https://devikholilah.github.io/sadurpl/1. jika muncul page not found, hal tersebut karena yang namanya host bisa dikenal jika sudah dalam beberapa menit.
 
