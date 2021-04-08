@@ -8,7 +8,7 @@ berikut hasil saduran saya :
 3.pada pertemuan pertama mahasiswa diharapkan membuat akun github terlebih dahulu.kemudian pada akun github tersebut mahasiswa harus membuat repository baru dengan langkah langkah sebagai berikut :
 - klik 'new'
 - isi nama repository dengan singkat tanpa spasi. contoh : sadurpl
-- kemudian isi kolom deskripsi dengan 'saduran Mata Kuliah Analisa dan Perancangan Perangkat Lunak'
+- kemudian isi kolom deskripsi dengan 'berisi mengenai saduran Mata Kuliah Analisa dan Perancangan Perangkat Lunak'
 - kemudian klik 'public'
 - klik ' add a README file'
 - kemudian jika sudah klik 'create repository'
@@ -22,7 +22,7 @@ nah,pada mata kuliah ini ada sebanyak 16 pertemuan,dimana setiap pertemuan dimin
 untuk mengirimkan hasil saduran kepada dosen/pengajar,cukup kirimkan link https://devikholilah.github.io/sadurpl/1. jika muncul page not found, hal tersebut karena yang namanya host bisa dikenal jika sudah dalam beberapa menit.
 
 berikut adalah cara menambhakan README yaitu :
-1. klik sadurrpl
+1. klik sadurpl
 2. kemudian klik edit (icon pencil di sebalah kanan)
 3. kemudian untuk menyimpan kembali klik commit changes.
 
