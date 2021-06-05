@@ -1,3 +1,3 @@
-Nim       : 1811500057<br>
-Nama      : Devi Kholilah<br>
+Nim       : 1811500057
+Nama      : Devi Kholilah
 Kelompok  : TI6J
